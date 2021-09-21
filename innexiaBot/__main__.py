@@ -114,8 +114,13 @@ Commands available:
 
 
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
- @SiderzDonate's 💕"""
+DONATE_STRING = """Hey Thanks for your thought of donating me!
+When you donate, all the fund goes towards my development which makes on fast and responsive.
+Your donation might also me get me a new feature or two, which I wasn't able to get due to server limitations.
+
+All the fund would be put into my services such as database, storage and hosting!.
+
+You Can donate to this bot via [PayPal](paypal.me/vivektvp) Or [Buy Me a Coffee.](https://ko-fi.com/VIVEKTP)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
