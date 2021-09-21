@@ -98,7 +98,7 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="➕️ Add To your Group ➕️", url="http://t.me/EmiliaHeartbot?startgroup=true"),
+        InlineKeyboardButton(text="➕️ Add To your Group ➕️", url=f"http://t.me/EmiliaHeartbot?startgroup=true"),
     ],
 ]
 
