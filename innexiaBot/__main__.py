@@ -86,13 +86,13 @@ buttons = [
             text="Commands & Help ❔", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="About 🙋‍♀️", callback_data="innexia_"),
+        InlineKeyboardButton(text="Channel 📜", url=f"https://t.me/EmiliaUpdates"),
         InlineKeyboardButton(
-            text="Vᴄ Pʟᴀʏᴇʀ 🎶", url=f"https://telegra.ph/Innexia-Vc-Player-08-19"
+            text="Support 🙋‍♀️", url=f"https://t.me/EmiliaChat"
         ),
     ],
     [
-        InlineKeyboardButton(text="📜 Aʙᴏᴜᴛ", callback_data="innexia_"),
+        InlineKeyboardButton(text="Aʙᴏᴜᴛ 🙋‍♀️", callback_data="innexia_"),
         InlineKeyboardButton(
             text="Bᴀꜱɪᴄ Hᴇʟᴘ 👮", callback_data="innexia_basichelp"
         ),
@@ -104,8 +104,13 @@ buttons = [
 
 
 HELP_STRINGS = """
-**SETTINGS**
-`Click on the buttons below to get documentation about specific modules..`)"""
+Hey There! My name is **Emilia**.
+I'm here to help you manage your groups!
+
+Commands available:
+× /start: Start the bot
+× /help: Give's you this message.
+× /donate: Information related on how to support my creator!"""
 
 
 
